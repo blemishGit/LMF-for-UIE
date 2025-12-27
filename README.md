@@ -1,4 +1,4 @@
-# LMF-for-UIE
+# lightweight Mamba-frequency fusion
 ## Train Model
 python main.py
 ## Test Model
